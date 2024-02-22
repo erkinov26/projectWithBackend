@@ -41,7 +41,7 @@ const Choose = () => {
         sx={{ m: 2 }}
         variant="contained"
       >
-        Sign In as Abbos
+        Sign In as Author
       </Button>
     </Box>
   );
